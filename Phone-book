@@ -1,5 +1,5 @@
 
-public class TelSpr {
+public class Phone-book {
  
     private static HashMap<String, String> ts = new HashMap<>();
     private static void addTS(String phone, String name) {
